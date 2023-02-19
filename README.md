@@ -65,3 +65,4 @@ If you are planning to present a workshop, *review and test the materials early*
 
 ![Test Imag 8](https://github.com/mosesnova/MCW-Continuous-delivery-in-Azure-DevOps-master/blob/main/bw.jpg)
 ![Test Imag 8](https://github.com/mosesnova/MCW-Continuous-delivery-in-Azure-DevOps-master/blob/main/jc.jpg)
+![Test Imag 8](https://github.com/mosesnova/MCW-Continuous-delivery-in-Azure-DevOps-master/blob/main/mt.jpg)
