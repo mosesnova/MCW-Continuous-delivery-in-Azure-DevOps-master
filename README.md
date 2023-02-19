@@ -63,4 +63,4 @@ If you are planning to present a workshop, *review and test the materials early*
 
 ### Please allow 5 - 10 business days for review and resolution of issues.
 
-![Test Imag 8](https://github.com/mosesnova/SkillsVRCodeFirst/blob/master/bw.jpg)
+![Test Imag 8](https://github.com/mosesnova/MCW-Continuous-delivery-in-Azure-DevOps-master/blob/main/bw.jpg)
