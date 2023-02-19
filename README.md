@@ -1,4 +1,4 @@
-https://github.com/microsoft/MCW-Continuous-delivery-in-Azure-DevOps
+
 # Continuous delivery in Azure DevOps
 
 ## This workshop is archived and no longer being maintained.  Content is read-only.
